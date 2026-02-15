@@ -11,7 +11,7 @@
 
 I’m a Data Scientist working at the intersection of machine learning, distributed systems, and production engineering.  
 
-I build end-to-end systems — from modeling and experimentation to deployment and monitoring — with a strong emphasis on statistical rigor and scalability.  
+I build end-to-end systems from modeling and experimentation to deployment and monitoring, with a strong emphasis on statistical rigor and scalability.  
 
 My work spans distributed Spark pipelines on AWS, deep learning systems for manufacturing inspection, and large-scale network analytics on urban mobility data.
 
