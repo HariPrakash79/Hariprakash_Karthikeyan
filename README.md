@@ -42,7 +42,7 @@ Fine-tuned MobileNetV2 and EfficientNetV2 for X-ray solder defect detection, ach
 
 
 ### 🚕 NYC Mobility Network Analysis  
-Modeled 100M+ NYC TLC trip records as directed spatiotemporal networks, applying Louvain clustering and centrality metrics to quantify demand redistribution after ride-hailing expansion.[Github Repo Link](https://github.com/HariPrakash79/Uber_Taxi_Network_Analysis)
+Modeled 100M+ NYC TLC trip records as directed spatiotemporal networks, applying Louvain clustering and centrality metrics to quantify demand redistribution after ride-hailing expansion. [Github Repo Link](https://github.com/HariPrakash79/Uber_Taxi_Network_Analysis)
 
 
 ---
