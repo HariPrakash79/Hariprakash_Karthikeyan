@@ -1,53 +1,58 @@
-## Hi There, I'm Hari Karthikeyan
+# Hi there, I'm Hari Karthikeyan  
+### Data Scientist | ML Engineer | Data Systems Builder  
 
-Data Scientist | ML Engineer | Data Systems Builder
+🚀 Passionate about building scalable machine learning systems that move from raw data to production impact.  
+📊 Focused on distributed analytics, deep learning, and statistical modeling.  
+🎓 MS in Data Science | University of Rochester  
 
-🚀 Passionate about building scalable machine learning systems from raw data to deployment.
-🎯 Focused on distributed analytics, deep learning, and production-grade ML pipelines.
-🎓 MS in Data Science | University of Rochester
+---
 
-💡 About Me
+## 💡 About Me  
 
-I work at the intersection of data science, machine learning, and data engineering.
+I’m a Data Scientist working at the intersection of machine learning, distributed systems, and production engineering.  
 
-I enjoy turning large, messy datasets into structured systems that scale — whether that’s distributed Spark pipelines on AWS, deep learning models for manufacturing inspection, or graph analytics on mobility networks.
+I build end-to-end systems — from modeling and experimentation to deployment and monitoring — with a strong emphasis on statistical rigor and scalability.  
 
-I care about:
+My work spans distributed Spark pipelines on AWS, deep learning systems for manufacturing inspection, and large-scale network analytics on urban mobility data.
 
-Statistical rigor
+---
 
-Reproducible experiments
+## Areas of Expertise  
 
-Scalable distributed systems
+- Machine Learning (scikit-learn, TensorFlow, PyTorch)  
+- Bayesian Modeling (PyMC), Time-Series Forecasting  
+- Spark (PySpark, Structured Streaming)  
+- Distributed Systems (Databricks on AWS, Delta Lake)  
+- NLP (Regex Pipelines, Transformers, Embeddings)  
+- Graph Analytics & Network Modeling  
+- MLflow & Experiment Tracking  
+- Python, SQL, Pandas, NumPy  
+- Streamlit, AWS (S3), Git, Linux  
 
-Clean, production-ready workflows
+---
 
-Areas of Expertise
+## Recent Projects  
 
-Machine Learning (scikit-learn, TensorFlow, PyMC)
-Deep Learning & Transfer Learning
-Spark (PySpark, Structured Streaming)
-Distributed Systems (Databricks on AWS, Delta Lake)
-NLP (Regex pipelines, Transformer-based inference)
-Graph Analytics & Network Modeling
-MLflow & Experiment Tracking
-Python | SQL | Pandas | NumPy | Streamlit
+### 🔥 Distributed Sentiment Analytics  
+Built a Spark Structured Streaming pipeline on AWS-hosted Databricks processing 100K+ records using a Bronze → Silver → Gold architecture with MLflow-tracked transformer inference and Delta Lake storage. [Github Repo Link](https://github.com/HariPrakash79/Twitter_sentiment_analysis)
 
-Recent Projects
-🔥 Distributed Sentiment Analytics (AWS + Spark)
 
-Built a Spark Structured Streaming pipeline on AWS-hosted Databricks to process 100K+ records using a Bronze → Silver → Gold architecture. Integrated MLflow-tracked transformer inference and Delta Lake storage for scalable sentiment analytics.
+### 🧠 Deep Learning for Manufacturing QA  
+Fine-tuned MobileNetV2 and EfficientNetV2 for X-ray solder defect detection, achieving ~0.80 accuracy and ~0.95 recall after threshold A/B evaluation while preventing cross-panel data leakage. [Github Repo Link](https://github.com/HariPrakash79/solder-joint-quality-prediction)
 
-🧠 Deep Learning for Manufacturing QA
 
-Fine-tuned MobileNetV2 and EfficientNetV2 on X-ray solder images, achieving ~0.80 accuracy and ~0.95 recall after threshold A/B evaluation, minimizing missed-defect risk in automated inspection workflows.
+### 🚕 NYC Mobility Network Analysis  
+Modeled 100M+ NYC TLC trip records as directed spatiotemporal networks, applying Louvain clustering and centrality metrics to quantify demand redistribution after ride-hailing expansion.[Github Repo Link](https://github.com/HariPrakash79/Uber_Taxi_Network_Analysis)
 
-🚕 NYC Mobility Network Analysis
 
-Modeled 100M+ NYC TLC trip records as directed spatiotemporal networks, applying Louvain clustering and centrality metrics to quantify demand redistribution following ride-hailing expansion.
+---
 
-Connect with Me
+## Connect with Me  
 
-🌍 Portfolio: https://hariprakashkarthikeyan.netlify.app/
-💼 LinkedIn: https://www.linkedin.com/in/hariprakashkarthikeyan
-📧 Email: hariprakashsainik@gmail.com
+🌍 Portfolio: [Portfolio Website](https://hariprakashkarthikeyan.netlify.app/)
+💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hariprakashkarthikeyan)  
+📧 Email: [hari@email](hariprakashsainik@gmail.com)
+
+
+
+
