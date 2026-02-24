@@ -33,6 +33,11 @@ My work spans distributed Spark pipelines on AWS, deep learning systems for manu
 
 ## Recent Projects  
 
+
+### 🎧 Real-Time Music Recommender System (Ongoing)  
+Building an AWS + Kafka + LLM pipeline that ingests multi-source music data (50K+ tracks) into S3, normalizes it to Parquet, streams listening events through Kafka, and serves SQL-ready features via PostgreSQL for real-time personalization and conversational recommendations. [Github Repo Link](https://github.com/HariPrakash79/spotify-realtime-music-assistant)
+
+
 ### 🔥 Distributed Sentiment Analytics  
 Built a Spark Structured Streaming pipeline on AWS-hosted Databricks processing 100K+ records using a Bronze → Silver → Gold architecture with MLflow-tracked transformer inference and Delta Lake storage. [Github Repo Link](https://github.com/HariPrakash79/Twitter_sentiment_analysis)
 
