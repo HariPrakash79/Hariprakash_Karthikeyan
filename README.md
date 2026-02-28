@@ -56,7 +56,7 @@ Modeled 100M+ NYC TLC trip records as directed spatiotemporal networks, applying
 
 🌍 Portfolio: [Portfolio Website](https://hariprakashkarthikeyan.netlify.app/)
 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hariprakashkarthikeyan)  
-📧 Email: [hariprakashsainik@gmail.com](hariprakashkarthikeyanslm@gmail.com)
+📧 Email: [hariprakashkarthikeyanslm@gmail.com](hariprakashkarthikeyanslm@gmail.com)
 
 
 
